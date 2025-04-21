@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Foo Fighters",
       "genre": "Rock",
-      "urlImg": "https://i.scdn.co/image/ab67616100005174c884df599abc793c116cdf15"
+      "urlImg": "/images-api/foo-fighters.jpg"
     },
     {
       "id": 2,
@@ -345,13 +345,13 @@
     {
       "id": 58,
       "name": "Ludmilla",
-      "genre": "Pop",
+      "genre": "Funk",
       "urlImg": "https://i.scdn.co/image/ab67616100005174f1a2b0c3d4e5f8c7b6a9d2e0"
     },
     {
       "id": 59,
       "name": "Anitta",
-      "genre": "Pop",
+      "genre": "Funk",
       "urlImg": "https://i.scdn.co/image/ab67616100005174f1a2b0c3d4e5f8c7b6a9d2e0"
     },
     {
