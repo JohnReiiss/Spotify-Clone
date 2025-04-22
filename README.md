@@ -55,7 +55,9 @@ git clone https://github.com/JohnReiiss/Spotify-Clone.git
 - Acesse a versão online: Visualizar Projeto
 
 ## 📌 Captura de Tela
-Preview do Spotify Clone
+<div align="center"> 
+<p>Preview do Spotify Clone</p>
+</div>
 ![image](https://github.com/user-attachments/assets/f67652df-1bc2-4dcf-9cd1-804072896f99)
 
 ## 📱 Contato
