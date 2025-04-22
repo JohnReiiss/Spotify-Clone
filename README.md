@@ -10,11 +10,10 @@ Um clone do Spotify Web com playlists e mecanismo de busca para artistas. Desenv
 </div>
 
 ## ✨ Funcionalidades
-
-✅ Search Bar bpara pesquisar por artistas
-✅ API interna dos artistas
-✅ Design responsivo adaptado para desktop
-✅ Efeitos de hover e estados ativos
+- ✅ Search Bar bpara pesquisar por artistas
+- ✅ API interna dos artistas
+- ✅ Design responsivo adaptado para desktop
+- ✅ Efeitos de hover e estados ativos
 
 ## 🛠️ Tecnologias Utilizadas
 
