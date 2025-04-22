@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone 
+# 🎧 Spotify Clone 
 
 Um clone do Spotify Web com playlists e mecanismo de busca para artistas. Desenvolvido com tecnologias web modernas para simular a experiência do usuário do Spotify.
 
@@ -42,7 +42,7 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 
 <div align="center"> 
   <p>Feito por <a href="https://github.com/JohnReiiss">John Reis</a></p>
-  <p>🔗 <strong>Link do projeto</strong>: <a href="https://johnreiiss.github.io/Spotify-Clone/">github.com/JohnReiiss/Spotify-Clone</a></p> 
+  <p>🔗 <strong>Link do projeto</strong>: <a href="https://johnreiiss.github.io/Spotify-Clone/" target="_blank" rel="noopener noreferrer">github.com/JohnReiiss/Spotify-Clone</a></p> 
 </div>
 
 ## 🚀 Como Usar
