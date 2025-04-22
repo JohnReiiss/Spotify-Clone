@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone 
 
-Um clone do Spotify Web Player com player de música interativo, playlists e controles de reprodução. Desenvolvido com tecnologias web modernas para simular a experiência do usuário do Spotify.
+Um clone do Spotify Web com playlists e mecanismo de busca para artistas. Desenvolvido com tecnologias web modernas para simular a experiência do usuário do Spotify.
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
