@@ -46,13 +46,13 @@ Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 
 ## 🚀 Como Usar
 
-1- Clone o repositório
+- Clone o repositório
 
 ```bash
 git clone https://github.com/JohnReiiss/Spotify-Clone.git
 ````
-2- Abra o arquivo index.html em seu navegador
-3- Acesse a versão online: Visualizar Projeto
+- Abra o arquivo index.html em seu navegador
+- Acesse a versão online: Visualizar Projeto
 
 ## 📌 Captura de Tela
 Preview do Spotify Clone
