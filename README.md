@@ -11,19 +11,17 @@ Um clone do Spotify Web com playlists e mecanismo de busca para artistas. Desenv
 
 ## ✨ Funcionalidades
 
-✅ Player de música com controles de reprodução (play/pause, próximo, anterior)
-✅ Barra de progresso da música interativa
-✅ Visualização de capa do álbum animada
-✅ Playlist com lista de músicas
-✅ Design responsivo adaptado para desktop e mobile
+✅ Search Bar bpara pesquisar por artistas
+✅ API interna dos artistas
+✅ Design responsivo adaptado para desktop
 ✅ Efeitos de hover e estados ativos
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica
 - **CSS3**: Grid, animações e variáveis
-- **JavaScript Vanilla**: Controles do player e lógica de reprodução
-- **Font Awesome**: Ícones de controles
+- **JavaScript Vanilla**: Para consumir a API no mecanismo de busca
+- **Font Awesome**: Para os ícones
 - **Google Fonts**: Montserrat
 
 ## 🎨 Design
@@ -36,7 +34,7 @@ Um clone do Spotify Web com playlists e mecanismo de busca para artistas. Desenv
 
 - 🔹 **Performance otimizada**: Carregamento rápido de mídia
 - 🔹 **Animações suaves**: Transições CSS para interações
-- 🔹 **Controles intuitivos**: Experiência de usuário familiar
+- 🔹 **UX Design aplicado**: Experiência de usuário familiar
 
 ## 📄 Licença
 
