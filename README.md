@@ -53,6 +53,7 @@ git clone https://github.com/JohnReiiss/Spotify-Clone.git
 ````
 - Abra o arquivo index.html em seu navegador
 - Acesse a versão online: Visualizar Projeto
+- Para consumir a API rodando o servidor node express localmente digite no terminal "node server.js"
 
 ## 📌 Captura de Tela
 ![image](https://github.com/user-attachments/assets/5b58af04-facb-4b6c-b23c-e4086716abba)
