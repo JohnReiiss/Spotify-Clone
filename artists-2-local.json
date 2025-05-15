@@ -1,0 +1,604 @@
+{
+  "artists": [
+    {
+      "id": 1,
+      "name": "Foo Fighters",
+      "genre": "Rock",
+      "urlImg": "/images-api/foo-fighters-png-photo-api.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Michael Jackson",
+      "genre": "Pop",
+      "urlImg": "/images-api/michael-jackson-png-photo-api.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Emicida",
+      "genre": "Hip Hop",
+      "urlImg": "/images-api/emicida-png-photo-api.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Chitãozinho e Xororó",
+      "genre": "Sertanejo",
+      "urlImg": "/images-api/chitaozinho-e-xororo-png-photo-api.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Mc Coringa",
+      "genre": "Funk",
+      "urlImg": "/images-api/mc-coringa-png-photo-api.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Arlindo Cruz",
+      "genre": "Samba",
+      "urlImg": "/images-api/arlindo-cruz-png photo-api.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Caetano Veloso",
+      "genre": "MPB",
+      "urlImg": "/images-api/caetano-veloso-png-photo-api.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Coldplay",
+      "genre": "Pop",
+      "urlImg": "/images-api/coldplay-png-photo-api.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Linkin Park",
+      "genre": "Rock",
+      "urlImg": "/images-api/linkin-park-png-photo-api.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Green Day",
+      "genre": "Punk Rock",
+      "urlImg": "/images-api/green-day-png-photo-api.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Travis Scott",
+      "genre": "Rap",
+      "urlImg": "/images-api/travis-scott-png-photo-api.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "Camila Cabello",
+      "genre": "Pop",
+      "urlImg": "/images-api/camila-cabello-png-photo-api.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Metro Boomin",
+      "genre": "Hip Hop",
+      "urlImg": "/images-api/metro-boomin-png-photo-api.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Playboi Carti",
+      "genre": "Rap",
+      "urlImg": "/images-api/playboi-carti-png-photo-api.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Matue",
+      "genre": "Trap",
+      "urlImg": "/images-api/matue-png-photo-api.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Teto",
+      "genre": "Trap",
+      "urlImg": "/images-api/teto-png-photo-api.jpeg"
+    },
+    {
+      "id": 17,
+      "name": "Wiu",
+      "genre": "Trap",
+      "urlImg": "/images-api/wiu-png-photo-api.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Snoop Dogg",
+      "genre": "Rap",
+      "urlImg": "/images-api/snoop-dogg-png-photo-api.jpeg"
+    },
+    {
+      "id": 19,
+      "name": "Dr. Dre",
+      "genre": "Rap",
+      "urlImg": "/images-api/dr-dre-png-photo-api.jpeg"
+    },
+    {
+      "id": 20,
+      "name": "50 Cent",
+      "genre": "Rap",
+      "urlImg": "/images-api/50-cent-png photo-api.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Justin Bieber",
+      "genre": "Pop",
+      "urlImg": "/images-api/justin-bieber-png-photo-api.jpeg"
+    },
+    {
+      "id": 22,
+      "name": "Chris Brown",
+      "genre": "R&B",
+      "urlImg": "/images-api/chris-brown-png-photo-api.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "Kendrick Lamar",
+      "genre": "Rap",
+      "urlImg": "/images-api/kendrick-lamar-png-photo-api.jpeg"
+    },
+    {
+      "id": 24,
+      "name": "Yunk Vino",
+      "genre": "Trap",
+      "urlImg": "/images-api/yunk-vino-png-photo-api.jpeg"
+    },
+    {
+      "id": 25,
+      "name": "Racionais MCs",
+      "genre": "Rap",
+      "urlImg": "/images-api/racionais-mcs-png-photo-api.jpeg"
+    },
+    {
+      "id": 26,
+      "name": "Slipknot",
+      "genre": "Metal",
+      "urlImg": "/images-api/slipknot-png-photo-api.jpeg"
+    },
+    {
+      "id": 27,
+      "name": "Iron Maiden",
+      "genre": "Metal",
+      "urlImg": "/images-api/iron-maiden-png-photo-api.jpeg"
+    },
+    {
+      "id": 28,
+      "name": "AC/DC",
+      "genre": "Rock",
+      "urlImg": "/images-api/acdc-png-photo-api.jpeg"
+    },
+    {
+      "id": 29,
+      "name": "Nirvana",
+      "genre": "Rock",
+      "urlImg": "/images-api/nirvana-png-photo-api.jpeg"
+    },
+    {
+      "id": 30,
+      "name": "Guns N' Roses",
+      "genre": "Rock",
+      "urlImg": "/images-api/guns-n-roses-png-photo-api.jpeg"
+    },
+    {
+      "id": 31,
+      "name": "League of Legends",
+      "genre": "Game Soundtrack",
+      "urlImg": "/images-api/league-of-legends-png-photo-api.jpeg"
+    },
+    {
+      "id": 32,
+      "name": "Arcane",
+      "genre": "Game Soundtrack",
+      "urlImg": "/images-api/arcane-png-photo-api.jpeg"
+    },
+    {
+      "id": 33,
+      "name": "The Weeknd",
+      "genre": "R&B",
+      "urlImg": "/images-api/the-weeknd-png-photo-api.jpeg"
+    },
+    {
+      "id": 34,
+      "name": "Dua Lipa",
+      "genre": "Pop",
+      "urlImg": "/images-api/dua-lipa-png-photo-api.jpeg"
+    },
+    {
+      "id": 35,
+      "name": "Billie Eilish",
+      "genre": "Pop",
+      "urlImg": "/images-api/billie-eilish-png-photo-api.jpeg"
+    },
+    {
+      "id": 36,
+      "name": "Ariana Grande",
+      "genre": "Pop",
+      "urlImg": "/images-api/ariana-grande-png-photo-api.jpeg"
+    },
+    {
+      "id": 37,
+      "name": "Ed Sheeran",
+      "genre": "Pop",
+      "urlImg": "/images-api/ed-sheeran-png-photo-api.jpeg"
+    },
+    {
+      "id": 38,
+      "name": "Taylor Swift",
+      "genre": "Pop",
+      "urlImg": "/images-api/taylor-swift-png-photo-api.jpeg"
+    },
+    {
+      "id": 39,
+      "name": "Beyoncé",
+      "genre": "R&B",
+      "urlImg": "/images-api/beyoncé-png-photo-api.jpeg"
+    },
+    {
+      "id": 40,
+      "name": "Rihanna",
+      "genre": "Pop",
+      "urlImg": "/images-api/rihanna-png-photo-api.jpeg"
+    },
+    {
+      "id": 41,
+      "name": "Lady Gaga",
+      "genre": "Pop",
+      "urlImg": "/images-api/lady-gaga-png-photo-api.jpeg"
+    },
+    {
+      "id": 42,
+      "name": "Katy Perry",
+      "genre": "Pop",
+      "urlImg": "/images-api/katy-perry-png-photo-api.jpeg"
+    },
+    {
+      "id": 43,
+      "name": "Shakira",
+      "genre": "Pop",
+      "urlImg": "/images-api/shakira-png-photo-api.jpeg"
+    },
+    {
+      "id": 44,
+      "name": "Selena Gomez",
+      "genre": "Pop",
+      "urlImg": "/images-api/selena-gomez-png-photo-api.jpeg"
+    },
+    {
+      "id": 45,
+      "name": "Miley Cyrus",
+      "genre": "Pop",
+      "urlImg": "/images-api/miley-cyrus-png-photo-api.jpeg"
+    },
+    {
+      "id": 46,
+      "name": "Demi Lovato",
+      "genre": "Pop",
+      "urlImg": "/images-api/demi-lovato-png-photo-api.jpeg"
+    },
+    {
+      "id": 47,
+      "name": "Nicki Minaj",
+      "genre": "Rap",
+      "urlImg": "/images-api/nicki-minaj-png-photo-api.jpeg"
+    },
+    {
+      "id": 48,
+      "name": "Cardi B",
+      "genre": "Rap",
+      "urlImg": "/images-api/cardib-png-photo-api.jpeg"
+    },
+    {
+      "id": 49,
+      "name": "Lil Nas X",
+      "genre": "Rap",
+      "urlImg": "/images-api/lil-nas-x-png-photo-api.jpeg"
+    },
+    {
+      "id": 50,
+      "name": "Doja Cat",
+      "genre": "Rap",
+      "urlImg": "/images-api/doja-cat-png-photo-api.jpeg"
+    },
+    {
+      "id": 51,
+      "name": "Brandão85",
+      "genre": "Rap",
+      "urlImg": "/images-api/brandao85-png-photo-api.jpeg"
+    },
+    {
+      "id": 52,
+      "name": "L7nnon",
+      "genre": "Rap",
+      "urlImg": "/images-api/l7nnon-png-photo-api.jpeg"
+    },
+    {
+      "id": 53,
+      "name": "Baco Exu do Blues",
+      "genre": "Rap",
+      "urlImg": "/images-api/baco-exu-do-blues-png-photo-api.jpeg"
+    },
+    {
+      "id": 54,
+      "name": "Djonga",
+      "genre": "Rap",
+      "urlImg": "/images-api/djonga-png-photo-api.jpeg"
+    },
+    {
+      "id": 55,
+      "name": "Rincon Sapiência",
+      "genre": "Rap",
+      "urlImg": "/images-api/rincon-sapiencia-png-photo-api.jpeg"
+    },
+    {
+      "id": 56,
+      "name": "Filipe Ret",
+      "genre": "Rap",
+      "urlImg": "/images-api/filipe-ret-png-photo-api.jpeg"
+    },
+    {
+      "id": 57,
+      "name": "Xamã",
+      "genre": "Rap",
+      "urlImg": "/images-api/xamã-png-photo-api.jpeg"
+    },
+    {
+      "id": 58,
+      "name": "Ludmilla",
+      "genre": "Funk",
+      "urlImg": "/images-api/ludmilla-png-photo-api.jpeg"
+    },
+    {
+      "id": 59,
+      "name": "Anitta",
+      "genre": "Funk",
+      "urlImg": "/images-api/anitta-png-photo-api.jpeg"
+    },
+    {
+      "id": 60,
+      "name": "Pitty",
+      "genre": "Rock",
+      "urlImg": "/images-api/pitty-png-photo-api.jpeg"
+    },
+    {
+      "id": 61,
+      "name": "Legião Urbana",
+      "genre": "Rock",
+      "urlImg": "/images-api/legiao-urbana-png-photo-api.jpeg"
+    },
+    {
+      "id": 62,
+      "name": "Titãs",
+      "genre": "Rock",
+      "urlImg": "/images-api/titãs-png-photo-api.jpeg"
+    },
+    {
+      "id": 63,
+      "name": "Roupa Nova",
+      "genre": "Rock",
+      "urlImg": "/images-api/roupa-nova-png-photo-api.jpeg"
+    },
+    {
+      "id": 64,
+      "name": "Tauz",
+      "genre": "Rap Nerd",
+      "urlImg": "/images-api/tauz-png-photo-api.jpeg"
+    },
+    {
+      "id": 65,
+      "name": "MHRAP",
+      "genre": "Rap Nerd",
+      "urlImg": "/images-api/mhrap-png-photo-api.jpeg"
+    },
+    {
+      "id": 66,
+      "name": "Skillet",
+      "genre": "Rock",
+      "urlImg": "/images-api/skillet-png-photo-api.jpeg"
+    },
+    {
+      "id": 67,
+      "name": "One Republic",
+      "genre": "Pop",
+      "urlImg": "/images-api/one-republic-png-photo-api.jpeg"
+    },
+    {
+      "id": 68,
+      "name": "Imagine Dragons",
+      "genre": "Pop",
+      "urlImg": "/images-api/imagine-dragons-png-photo-api.jpeg"
+    },
+    {
+      "id": 69,
+      "name": "Maroon 5",
+      "genre": "Pop",
+      "urlImg": "/images-api/maroon-5-png-photo-api.jpeg"
+    },
+    {
+      "id": 70,
+      "name": "The Killers",
+      "genre": "Rock",
+      "urlImg": "/images-api/the-killers-png-photo-api.jpeg"
+    },
+    {
+      "id": 71,
+      "name": "Paramore",
+      "genre": "Rock",
+      "urlImg": "/images-api/paramore-png-photo-api.jpeg"
+    },
+    {
+      "id": 72,
+      "name": "Don Toliver",
+      "genre": "Rap",
+      "urlImg": "/images-api/don-toliver-png-photo-api.jpeg"
+    },
+    {
+      "id": 73,
+      "name": "Ryu The Runner",
+      "genre": "Rap",
+      "urlImg": "/images-api/ryu-the-runner-png-photo-api.jpeg"
+    },
+    {
+      "id": 74,
+      "name": "Josh Turner",
+      "genre": "Country",
+      "urlImg": "/images-api/josh-turner-png-photo-api.jpeg"
+    },
+    {
+      "id": 75,
+      "name": "VMZ",
+      "genre": "Rap Nerd",
+      "urlImg": "/images-api/vmz-png-photo-api.jpeg"
+    },
+    {
+      "id": 76,
+      "name": "Brad Paisley",
+      "genre": "Country",
+      "urlImg": "/images-api/brad-paisley-png-photo-api.jpeg"
+    },
+    {
+      "id": 77,
+      "name": "James Blunt",
+      "genre": "Pop",
+      "urlImg": "/images-api/james-blunt-png-photo-api.jpeg"
+    },
+    {
+      "id": 78,
+      "name": "Marshmello",
+      "genre": "Eletrônica",
+      "urlImg": "/images-api/marshmello-png-photo-api.jpeg"
+    },
+    {
+      "id": 79,
+      "name": "Veigh",
+      "genre": "Rap",
+      "urlImg": "/images-api/veigh-png-photo-api.jpeg"
+    },
+    {
+      "id": 80,
+      "name": "System of a Down",
+      "genre": "Rock",
+      "urlImg": "/images-api/systen-of-a-down-png-photo-api.jpeg"
+    },
+    {
+      "id": 81,
+      "name": "Bruno Mars",
+      "genre": "Pop",
+      "urlImg": "/images-api/bruno-mars-png-photo-api.jpeg"
+    },
+    {
+      "id": 82,
+      "name": "MC PH",
+      "genre": "Rap",
+      "urlImg": "/images-api/mc-ph-png-photo-api.jpeg"
+    },
+    {
+      "id": 83,
+      "name": "MC Poze do Rodo",
+      "genre": "Funk",
+      "urlImg": "/images-api/mc-poze-do-rodo-png-photo-api.jpeg"
+    },
+    {
+      "id": 84,
+      "name": "MC Lan",
+      "genre": "Funk",
+      "urlImg": "/images-api/mc-lan-png-photo-api.jpeg"
+    },
+    {
+      "id": 85,
+      "name": "MC Kevin o Chris",
+      "genre": "Funk",
+      "urlImg": "/images-api/mc-kevin-o-chris-png-photo-api.jpeg"
+    },
+    {
+      "id": 86,
+      "name": "MC Livinho",
+      "genre": "Funk",
+      "urlImg": "/images-api/mc-livinho-png-photo-api.jpeg"
+    },
+    {
+      "id": 87,
+      "name": "MC WM",
+      "genre": "Funk",
+      "urlImg": "/images-api/mc-wm-png-photo-api.jpeg"
+    },
+    {
+      "id": 88,
+      "name": "Sheck Wes",
+      "genre": "Rap",
+      "urlImg": "/images-api/sheck-wes-png-photo-api.jpeg"
+    },
+    {
+      "id": 89,
+      "name": "Lil Uzi Vert",
+      "genre": "Rap",
+      "urlImg": "/images-api/lil-uzi-vert-png-photo-api.jpeg"
+    },
+    {
+      "id": 90,
+      "name": "Lil Pump",
+      "genre": "Rap",
+      "urlImg": "/images-api/lil-pump-png-photo-api.jpeg"
+    },
+    {
+      "id": 91,
+      "name": "Lil Yachty",
+      "genre": "Rap",
+      "urlImg": "/images-api/lil-yachty-png-photo-api.jpeg"
+    },
+    {
+      "id": 92,
+      "name": "Lil Skies",
+      "genre": "Rap",
+      "urlImg": "/images-api/lil-skies-png-photo-api.jpeg"
+    },
+    {
+      "id": 93,
+      "name": "Lil Tecca",
+      "genre": "Rap",
+      "urlImg": "/images-api/lil-tecca-png-photo-api.jpeg"
+    },
+    {
+      "id": 94,
+      "name": "Juice WRLD",
+      "genre": "Rap",
+      "urlImg": "/images-api/juice-wrld-png-photo-api.jpeg"
+    },
+    {
+      "id": 95,
+      "name": "XXXTentacion",
+      "genre": "Rap",
+      "urlImg": "/images-api/xxxtentacion-png-photo-api.jpeg"
+    },
+    {
+      "id": 96,
+      "name": "Trippie Redd",
+      "genre": "Rap",
+      "urlImg": "/images-api/trippie-redd-png-photo-api.jpeg"
+    },
+    {
+      "id": 97,
+      "name": "Orochi",
+      "genre": "Rap",
+      "urlImg": "/images-api/orochi-png-photo-api.jpeg"
+    },
+    {
+      "id": 98,
+      "name": "Charlie Brown Jr.",
+      "genre": "Rock",
+      "urlImg": "/images-api/charlie-brown-jr-png-photo-api.jpeg"
+    },
+    {
+      "id": 99,
+      "name": "Budah",
+      "genre": "Rap",
+      "urlImg": "/images-api/budah-png-photo-api.jpeg"
+    },
+    {
+      "id": 100,
+      "name": "Post Malone",
+      "genre": "Pop",
+      "urlImg": "/images-api/post-malone-png-photo-api.jpeg"
+    }
+  ]
+}

@@ -3,9 +3,8 @@ const playlistContainer = document.getElementById("result-playlists");
 const searchInput = document.getElementById("search-input");
 
 function requestApi(searchTerm) {
-  fetch(
-    `http://localhost:3001/artists?name_like=${searchTerm.toLowerCase().trim()}`
-  )
+  fetch(`http://localhost:3000/api/artists`)
+
     .then((response) => {
       if (!response.ok) {
         throw new Error(`Erro na API: ${response.status}`);
@@ -13,9 +12,9 @@ function requestApi(searchTerm) {
       return response.json();
     })
     .then((data) => {
-      console.log("Dados filtrados recebidos da API:", data);
-      displayResults(data);
-    })
+  console.log("Dados filtrados recebidos da API:", data);
+  displayResults(data.artists);
+})
     .catch((error) => console.error("Erro ao buscar dados:", error));
 }
 
