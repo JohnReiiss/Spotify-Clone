@@ -58,11 +58,13 @@ git clone https://github.com/JohnReiiss/Spotify-Clone.git
 ## 📌 Captura de Tela
 ![image](https://github.com/user-attachments/assets/5b58af04-facb-4b6c-b23c-e4086716abba)
 
-## 📱 Contato
-Se quiser saber mais sobre meu trabalho ou discutir oportunidades:
+## ✉️ Contato
 
-- E-mail: johnatan.reiiss@icloud.com
-- LinkedIn: linkedin.com/in/johnatan-hayabusa
-- GitHub: github.com/JohnReiiss
+- **Desenvolvedor**: [Johnatan dos Santos Reis]  
+- **Email**: johnatan.reiiss@icloud.com 
+- **GitHub**: [github.com/seu-usuario](https://github.com/JohnReiiss)  
+- **LinkedIn**: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/johnatan-dos-santos-reis-945092b7/)  
+
+---
 
 Obrigado por visitar este repositório! Espero que goste do projeto. 🎧
